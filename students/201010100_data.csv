@@ -1,0 +1,4 @@
+Nombre materia;Departamento;Número código;Sección;Créditos;Semestre;Profesores;Salones;Horario;Modo calificación;Notas:Porcentajes:Concepto;Estado;Cálculo total
+MATEMÁTICA BÁSICA;;MATE1101;;3;1_2021-10;;;Jueves_Viernes;NUMERICO;5:0.5:Nota 1_1:0.495:Nota 2_-2.1:0.005:Final;Pendiente;NP
+Inglés V;;ING1015;;2;2_2021-20;;;Martes_Miércoles_Jueves_Viernes;A/R;7:1.0:T;Pendiente;NP
+MATEMÁTICA BÁSIC. 2;;MATE1102;;3;3_2022-10;;;Martes_Miércoles;NUMERICO;3.02:1.0:t;Pendiente;NP

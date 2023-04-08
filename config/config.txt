@@ -1,0 +1,41 @@
+Constants:
+    entryfont = 'Bookman Old Style' # Alguna fuente de word. 
+    entryjustify = 'center' # 'left', 'right' o 'center'.
+    correouni = 'uniandes.edu.co' # Terminación correo universitario.
+    icodir = 'config/assets/uniandes.ico' #Dirección del ícono de la universidad
+Students:
+    202014562:
+        show_main = 'nombre' # El label principal.
+        notecolor = 'blue'
+    202010323:
+        show_main = 'nombre' # El label principal.
+    202020201:
+        show_main = 'nombre' # El label principal.
+    3546787331245:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#E0115F' # Color de fondo del sitio principal.
+    8638923123201:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#E0115F' # Color de fondo del sitio principal.
+    101010101:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#5D8AA8' # Main Site background color.
+    2130981201:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#5D8AA8' # Main Site background color.
+    9210311131:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#5D8AA8' # Main Site background color.
+    213721891:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#5D8AA8' # Main Site background color.
+    214324221:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#5D8AA8' # Main Site background color.
+    1231412312:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#A4E1DC' # Main Site background color.
+    201010100:
+        show_main = 'nombre' # El label principal.
+        bg_color = '#C2F3EF' # Main Site background color.
+        notecolor = 'green'
