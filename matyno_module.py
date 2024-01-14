@@ -362,7 +362,7 @@ def info_PGA(mt:dict, actualsem:str="") -> tuple:
     
 #     return (PGA, horas_PGA, ssc, horas_pendientes)
 
-def semestre_actual(actual:types[localtime()]=localtime()):
+def semestre_actual(actual=localtime()):
     
     if actual.tm_mon == 7:
         nm = 19
